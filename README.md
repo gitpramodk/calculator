@@ -10,6 +10,7 @@ output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
 
 To build, simply:
+https://dev.azure.com/thinkpramodorg/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/gitpramodk.calculator?branchName=master
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
